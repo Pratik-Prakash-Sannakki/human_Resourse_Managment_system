@@ -3,7 +3,6 @@
 It is a Java Swing application for Human Resource Officer to manage all the 
 employees in the company. 
 User can do CRUD to employees profile. 
- What’s CRUD? Read here 
  
 The employee profile will have following fields : 
 • Name 
@@ -19,12 +18,14 @@ o Cell phone number
 o email address 
 • Photo 
  
-Your application will allow user to do 
+ the application will allow user to  
 • Create, Read, Update, Delete employee profile 
 • Search employee profile from employee directory based on different search 
 option(Name, ID, and others fields) 
 • Display the photo when reading employee profile 
 
+ 
+ 
  Functionality -
 
  Steps- 
